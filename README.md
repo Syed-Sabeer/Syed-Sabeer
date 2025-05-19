@@ -3,13 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syed-sabeer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-sabeer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=syed-sabeer&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=syed-sabeer&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-sabeer&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/48/8c/08/488c086015c27ba41cd3c8234403676d.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/e7/49/97/e7499757bf3a6628a2bbfc74a1df01b8.gif"  />
 
 ###
 
@@ -57,6 +58,19 @@
   <a href="https://www.facebook.com/syedsabeerofficial" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=syed-sabeer&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-sabeer&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=syed-sabeer.syed-sabeer&"  />
 </div>
 
 ###
